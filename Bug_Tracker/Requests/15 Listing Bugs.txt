@@ -1,0 +1,3 @@
+Title:     Listing Bugs
+
+Body:    Noo quick and easy way to list all the bugs in the folder, this could loop back to the menu to descide what do with it, or loop just to the view reuest function? Tis would allow quick and easy use

@@ -1,0 +1,9 @@
+Title:     More readable title and body
+
+Body:    This should make the body more reable and seperate the title and make it clear which is which.
+
+2021-12-30 15:12:38.17765230:Dec:2021   This should also add a time and date stamp making it easier to read.
+
+15:1930:Dec:2021   This shuld make the time and date recording clearer
+
+15:19   30:Dec:2021   Adding a space to date and time

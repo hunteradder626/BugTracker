@@ -1,0 +1,3 @@
+Title:     Not adding text
+
+Body:    The completed / close request sequence doesn't add the right text (in fact none) oto the file in order for me to confirm it's closed

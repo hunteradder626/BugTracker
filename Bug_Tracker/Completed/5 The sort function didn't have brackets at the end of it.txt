@@ -1,0 +1,3 @@
+The sort function didn't have brackets at the end of it
+
+The sort fucntion didn't have brackets at the end meaning it didn't sort them properly, also this was also unnecssaryily put into another variable.
