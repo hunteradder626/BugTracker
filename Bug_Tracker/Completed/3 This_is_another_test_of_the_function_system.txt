@@ -1,3 +1,0 @@
-This is another test of the function system
-
-The number wasn't added too properly

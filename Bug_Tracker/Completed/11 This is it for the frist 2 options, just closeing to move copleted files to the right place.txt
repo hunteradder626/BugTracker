@@ -1,3 +1,0 @@
-Title:     This is it for the frist 2 options, just closeing to move copleted files to the right place
-
-Body:    The first two options are done and the close function is still having issues moving the files to the right place, as it doesn't think there is such a file or directory. 
