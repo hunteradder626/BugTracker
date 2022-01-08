@@ -1,3 +1,0 @@
-File Names
-
-File names with numbers are great as it allows them to be sorted, however, file names might need to not have spaces, at the minute the file name is split by spaces, if this changes, we will have to split by something else like "-" or "_".

@@ -1,3 +1,0 @@
-Title:     Menu loop
-
-Body:    Menu doesn't loop so have to keep goin back in, while=true and then an exit non a certain e[1;2Dkey entry would be useful

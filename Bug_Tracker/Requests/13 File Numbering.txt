@@ -1,3 +1,0 @@
-Title:     File Numbering
-
-Body:    If ths oldest bug is done it's not  a problem. But if you do the newest bug coplete nad more move it, hthis would create a situation of 2 of the same number in the completed folder.

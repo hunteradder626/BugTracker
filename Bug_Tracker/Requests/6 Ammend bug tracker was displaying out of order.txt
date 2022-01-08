@@ -1,5 +1,0 @@
-Ammend bug tracker was displaying out of order.
-
-The list wasn't sorted and files when read back aren't in order, so readded the sort method into this function as well in order to see it properly
-
-30:Dec:2021   This still doesn't work, thinking of putting it in a list to make it at least call able without having to copy and paste the file name. Might use a dictionary too. Or spliting the number from the rest of the file to at least be able to select a number BUT thoesn't allow for multiple numbers, and may cause issues with this.
